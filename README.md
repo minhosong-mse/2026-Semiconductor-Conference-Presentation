@@ -37,7 +37,7 @@ Spectroscopic Ellipsometry와 X-ray 계열 계측의 상보성을 문헌 기반�
 ## Presentation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/minhosong-mse/minhosong-mse.github.io/main/%EB%B0%9C%ED%91%9C%EC%82%AC%EC%A7%84.png"
+  <img src="/conference-presentation.png"
        width="62%"
        alt="2026 반도체공학회 특별세션 발표 모습"/>
 </p>
@@ -71,12 +71,12 @@ Spectroscopic Ellipsometry와 X-ray 계열 계측의 상보성을 문헌 기반�
 ## Presentation Record
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/minhosong-mse/minhosong-mse.github.io/main/%EB%B0%9C%ED%91%9C%EC%88%9C%EC%84%9C.png"
+  <img src="/conference-program-order.png"
        width="86%"
        alt="공식 프로그램 발표 순서"/>
 </p>
 
-- **Presentation Material:** [🔗 발표 자료 PDF](https://github.com/minhosong-mse/minhosong-mse.github.io/blob/main/%EB%B0%98%EB%8F%84%EC%B2%B4%EA%B3%B5%ED%95%99%ED%9A%8C_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+- **Presentation Material:** [🔗 발표 자료 PDF](/conference-presentation_se-xray-hybrid-metrology.pdf)
 - **Technical Repository:** [🔗 SE–X-ray Hybrid Metrology](https://github.com/minhosong-mse/2026-SE-Xray-Hybrid-Metrology)
 - **Portfolio:** [🔗 Personal Portfolio](https://minhosong-mse.github.io/#experience)
 
